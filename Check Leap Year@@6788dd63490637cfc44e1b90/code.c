@@ -7,17 +7,17 @@ int main() {
     if(a%4==0){
         if(a%100==0){
             if(a%500==0){
-                printf("Leap Year");
+                printf("Leap Year\n");
             }
             else{
-                printf("Not a Leap Year");
+                printf("Not a Leap Year\n");
             }
-        printf("Not a Leap Year");}
+        printf("Not a Leap Year\n");}
         else{
-            printf("Leap Year");}
-    printf("Leap Year");}
+            printf("Leap Year\n");}
+    printf("Leap Year\n");}
     else{
-        printf("Not a Leap Year");
+        printf("Not a Leap Year\n");
     }
         
           
