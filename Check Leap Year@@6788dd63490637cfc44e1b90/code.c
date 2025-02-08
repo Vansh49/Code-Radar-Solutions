@@ -13,12 +13,12 @@ int main() {
                 printf("Not a Leap Year");
             }
         else{
-            printf("Leap Year");
+            printf("Leap Year");}
     else{
         printf("Not a Leap Year");
     }
-        }
-        }
+        
+        }  
     }
     return 0;
 }
