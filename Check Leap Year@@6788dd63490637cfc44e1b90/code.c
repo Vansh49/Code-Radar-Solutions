@@ -6,7 +6,7 @@ int main() {
     scanf("%d",&a);
     if(a%4==0){
         if(a%100==0){
-            if(a%500==0){
+            if(a%400==0){
                 printf("Leap Year\n");
                 }
             else{
