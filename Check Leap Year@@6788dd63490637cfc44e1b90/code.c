@@ -14,14 +14,12 @@ int main() {
                 printf("Not a Leap Year\n");
                 break;
             }
-        printf("Not a Leap Year\n");
-        break;
+        
         }
         else{
             printf("Leap Year\n");
             break;}
-    printf("Leap Year\n");
-    break;}
+    }
     else{
         printf("Not a Leap Year\n");
         break;
