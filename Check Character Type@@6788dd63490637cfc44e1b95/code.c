@@ -7,6 +7,6 @@ int main(){
         printf("Vowel");
     }
     else if(isdigit(a)){
-        printf("Digit")
+        printf("Digit");
     }
 }
