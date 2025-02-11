@@ -9,4 +9,7 @@ int main(){
     else if(isdigit(x)){
         printf("Digit");
     }
+    else if(isalpha(x)){
+        printf("Consonent")
+    }
 }
