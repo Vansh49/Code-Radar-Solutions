@@ -12,4 +12,7 @@ int main(){
     else if(isalpha(x)){
         printf("Consonant");
     }
+    else{
+        printf("Special Character")
+    }
 }
