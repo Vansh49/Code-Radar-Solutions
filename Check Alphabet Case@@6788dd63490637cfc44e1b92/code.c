@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <ctype.h>
 int main(){
     char a;
     scanf("%d",&a);
@@ -7,7 +7,7 @@ int main(){
         if(isupper(a)){
             printf("Uppercase");
         }
-        elseif(islower(a)){
+        else if(islower(a)){
             printf("Lowercase");
         }
     }
