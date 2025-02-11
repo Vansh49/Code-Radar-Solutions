@@ -10,6 +10,6 @@ int main(){
         printf("Digit");
     }
     else if(isalpha(x)){
-        printf("Consonent")
+        printf("Consonent");
     }
 }
