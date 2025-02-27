@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main{
+int main(){
     int a,b;
     scanf("%d",&a);
     for(b==2;b<a;b++){
