@@ -12,6 +12,7 @@ int main(){
     if(b==a-1){
         printf("Prime");
     }
+    return 0;
 
 
 }
