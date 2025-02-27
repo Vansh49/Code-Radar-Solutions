@@ -7,6 +7,9 @@ int main(){
             printf("Not Prime");
             break;
     }
+    else{
+        continue;
+    }
 
     }
     if(b==a){
